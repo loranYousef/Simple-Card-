@@ -1,0 +1,23 @@
+.myheading {
+    background-color: red;
+    color: aliceblue;
+padding: 50px 50px 50px 50px;
+text-align: center;
+margin: 100px;
+border: solid  rgb(2, 8, 24);
+border-radius: 80px;
+border-bottom: solid black  20px;   
+  
+    
+  
+  
+}
+#hid{
+    background-color: blueviolet;
+}
+ body{
+   /*color: rgb(116, 161, 43);font-family: 'Courier New', Courier, monospace;*/
+
+
+
+ }
