@@ -16,8 +16,43 @@ border-bottom: solid black  20px;
     background-color: blueviolet;
 }
  body{
+    
    /*color: rgb(116, 161, 43);font-family: 'Courier New', Courier, monospace;*/
 
 
 
+ }
+ .subscribe{
+  
+  background-color:#c00 ;
+  padding: 25px 80px;
+  border-radius: 20px;
+  color: white;
+  margin-top: 50px;
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: 800;
+  font-family: 'Roboto', sans-serif;
+
+ }
+ .card{
+  width: 246px; ;
+  height: 407px;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 8px;
+  
+ }
+ 
+
+ .card :hover{
+  border: 1px solid rgb(19, 218, 12);
+ }
+ .img{
+  height: 407px;
+  width: 264px;
+ }
+ .img{
+  height: 407px;
+  width: 264px;
  }
